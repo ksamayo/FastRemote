@@ -131,4 +131,5 @@ RemoteFramework.GetAnalytics()
 ```lua
 RemoteFramework.Fire(action, ...)
 RemoteFramework.Request(action, ...)
+RemoteFarmework.OnEvent
 ```
